@@ -1,0 +1,29 @@
+# Переменные окружения и секреты
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Системные файлы macOS
+.DS_Store
+
+# Временные файлы
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
